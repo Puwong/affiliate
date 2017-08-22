@@ -1,0 +1,2 @@
+# affiliate
+Something about affiliate
